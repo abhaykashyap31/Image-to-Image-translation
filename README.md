@@ -1,5 +1,5 @@
 
-# 📘 `pics2pics.ipynb` - Image-to-Image Translation with PyTorch
+# 📘 Image-to-Image Translation with PyTorch
 
 This README provides a detailed overview of `pics2pics.ipynb`, a Jupyter notebook that demonstrates an **image-to-image translation** workflow using PyTorch and the **facades dataset**. Inspired by the [pix2pix framework](https://arxiv.org/abs/1611.07004), this notebook focuses on preprocessing, custom dataset creation, and visualization.
 
